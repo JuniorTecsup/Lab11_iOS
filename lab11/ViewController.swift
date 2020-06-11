@@ -21,7 +21,6 @@ class ViewController: UIViewController {
         mapita.showsUserLocation = true
     }
 
-
     @IBAction func cambiarVisualizacionMapa(_ sender: Any) {
         
         //Estructura de casos
